@@ -1,3 +1,3 @@
-# cheatapi
+# cheats
 
 for roblox scripts
